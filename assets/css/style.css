@@ -1,0 +1,21 @@
+.imagem-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.imagem {
+    width: 900px;
+    height: 600px;
+}
+.btn {
+    display: flex;
+    flex-direction: row;
+}
+.btn button {
+    width: 20px;
+    height: 20px;
+    background-color: #000;
+    border-radius: 50%;
+    margin-right: 10px;
+}
